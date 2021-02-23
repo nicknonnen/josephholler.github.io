@@ -20,3 +20,13 @@ The course website is found [here](https://gis4dev.github.io).
 Thanks, have a great rest of your day. Because Vermont.
 
 _HOWEVER_ remember that sometimes GitHub takes a few minutes, maybe even ten whole minutes, to render new changes to your website.
+
+## Blog Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
