@@ -24,3 +24,8 @@ The course website is found [here](https://gis4dev.github.io).
 Thanks, have a great rest of your day. Because Vermont.
 
 _HOWEVER_ remember that sometimes GitHub takes a few minutes, maybe even ten whole minutes, to render new changes to your website.
+
+## Musings
+
+- [What is Open GIScience?](musings/open-source.md)
+- another future blog
