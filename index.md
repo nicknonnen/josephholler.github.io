@@ -30,3 +30,11 @@ _HOWEVER_ remember that sometimes GitHub takes a few minutes, maybe even ten who
     </li>
   {% endfor %}
 </ul>
+
+<ul>
+  {% for page in site.pages %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
