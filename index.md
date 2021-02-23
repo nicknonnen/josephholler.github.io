@@ -4,8 +4,8 @@ layout: default
 ---
 
 # Joseph Holler's Open Source GIS Porfolio
-Hi, I am Joseph Holler and I am super enthusiasic about teaching the second round of Open Source GIScience.
-I really shouldn't put information like "second round" in this video, because it'll be super lame when I try to re-use the video next year.
+Hi, I am Joseph Holler and I research and teach Open Source GIScience.
+Don't take this page seriously: it's just a teaching demo. The real thing is at [GIS4DEV](https://gis4dev.github.io).
 
 ## GIScience Analyses
 
