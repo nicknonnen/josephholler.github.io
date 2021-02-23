@@ -2,7 +2,7 @@
 Hi, I am Joseph Holler and I am super enthusiasic about teaching the second round of Open Source GIScience.
 I really shouldn't put information like "second round" in this video, because it'll be super lame when I try to re-use the video next year.
 
-- item number one
+- [Gravity Model of Spatial Interaction](gravity/gravity.md)
 - item number two
 
 1. first thing
