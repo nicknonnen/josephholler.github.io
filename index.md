@@ -7,25 +7,12 @@ layout: default
 Hi, I am Joseph Holler and I am super enthusiasic about teaching the second round of Open Source GIScience.
 I really shouldn't put information like "second round" in this video, because it'll be super lame when I try to re-use the video next year.
 
-- [Gravity Model of Spatial Interaction](gravity/gravity.md)
-- item number two
+## GIScience Analyses
 
-1. first thing
-1. second thing
-1. third thing
-1111. fourth thing
-
-The course website is found [here](https://gis4dev.github.io).
-
-![OSGeo Logo](logo-osgeo.svg)
-
-[![OSGeo Logo](logo-osgeo.svg)](https://www.osgeo.org/)
-
-Thanks, have a great rest of your day. Because Vermont.
-
-_HOWEVER_ remember that sometimes GitHub takes a few minutes, maybe even ten whole minutes, to render new changes to your website.
+1. [Gravity Model of Spatial Interaction](gravity/gravity.md)
+1. another future analysis
 
 ## Musings
 
-- [What is Open GIScience?](musings/open-source.md)
-- another future blog
+1. [What is Open GIScience?](musings/open-source.md)
+2. another future blog
