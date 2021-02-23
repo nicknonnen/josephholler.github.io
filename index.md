@@ -1,3 +1,8 @@
+---
+title: Main Page
+layout: default
+---
+
 # Joseph Holler's Open Source GIS Porfolio
 Hi, I am Joseph Holler and I am super enthusiasic about teaching the second round of Open Source GIScience.
 I really shouldn't put information like "second round" in this video, because it'll be super lame when I try to re-use the video next year.
