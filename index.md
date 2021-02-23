@@ -38,3 +38,5 @@ _HOWEVER_ remember that sometimes GitHub takes a few minutes, maybe even ten who
     </li>
   {% endfor %}
 </ul>
+
+updated {{ date }}
