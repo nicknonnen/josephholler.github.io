@@ -17,6 +17,10 @@ I really shouldn't put information like "second round" in this video, because it
 
 The course website is found [here](https://gis4dev.github.io).
 
+![OSGeo Logo](logo-osgeo.svg)
+
+![OSGeo Logo](logo-osgeo.svg)(https://www.osgeo.org/)
+
 Thanks, have a great rest of your day. Because Vermont.
 
 _HOWEVER_ remember that sometimes GitHub takes a few minutes, maybe even ten whole minutes, to render new changes to your website.
