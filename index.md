@@ -19,7 +19,7 @@ The course website is found [here](https://gis4dev.github.io).
 
 ![OSGeo Logo](logo-osgeo.svg)
 
-![OSGeo Logo](logo-osgeo.svg)(https://www.osgeo.org/)
+[![OSGeo Logo](logo-osgeo.svg)](https://www.osgeo.org/)
 
 Thanks, have a great rest of your day. Because Vermont.
 
